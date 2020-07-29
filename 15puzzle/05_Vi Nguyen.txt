@@ -1,0 +1,99 @@
+Vi Nguyen
+5th Period
+10/6/2017
+
+---->Solving  ABCDEFG.IJKHMNOL
+Solved.        bfs       11 Nodes	    2 Steps	 0.00007 secs	 160801 N/s
+Solved.     bi_bfs        5 Nodes	    2 Steps	 0.00004 secs	 112537 N/s
+Solved.     id_dfs        8 Nodes	    2 Steps	 0.00006 secs	 143592 N/s
+Solved.     greedy        5 Nodes	    2 Steps	 0.00012 secs	  40283 N/s
+
+---->Solving  ABC.EFGDIJKHMNOL
+Solved.        bfs       16 Nodes	    3 Steps	 0.00007 secs	 215048 N/s
+Solved.     bi_bfs        8 Nodes	    3 Steps	 0.00004 secs	 181500 N/s
+Solved.     id_dfs       16 Nodes	    3 Steps	 0.00022 secs	  72024 N/s
+Solved.     greedy        6 Nodes	    3 Steps	 0.00014 secs	  43187 N/s
+
+---->Solving  AB.CEFHDIJGKMNOL
+Solved.        bfs      521 Nodes	    6 Steps	 0.00277 secs	 188052 N/s
+Solved.     bi_bfs       46 Nodes	    6 Steps	 0.00024 secs	 192693 N/s
+Solved.     id_dfs       24 Nodes	    6 Steps	 0.00124 secs	  19309 N/s
+Solved.     greedy       14 Nodes	    6 Steps	 0.00031 secs	  45272 N/s
+
+---->Solving  A.BCEFGDIJKHMNOL
+Solved.        bfs      243 Nodes	    5 Steps	 0.00132 secs	 183524 N/s
+Solved.     bi_bfs       17 Nodes	    5 Steps	 0.00009 secs	 184011 N/s
+Solved.     id_dfs       13 Nodes	    5 Steps	 0.00049 secs	  26542 N/s
+Solved.     greedy       10 Nodes	    5 Steps	 0.00022 secs	  45889 N/s
+
+---->Solving  ABGCEFKD.IJHMNOL
+Solved.        bfs     2123 Nodes	    8 Steps	 0.01273 secs	 166825 N/s
+Solved.     bi_bfs       84 Nodes	    8 Steps	 0.00050 secs	 169672 N/s
+Solved.     id_dfs      216 Nodes	    8 Steps	 0.00744 secs	  29025 N/s
+Solved.     greedy       19 Nodes	    8 Steps	 0.00040 secs	  47307 N/s
+
+---->Solving  BCD.AFGHEIJLMNKO
+Solved.        bfs     3693 Nodes	    9 Steps	 0.02338 secs	 157956 N/s
+Solved.     bi_bfs      162 Nodes	    9 Steps	 0.00089 secs	 181877 N/s
+Solved.     id_dfs       81 Nodes	    9 Steps	 0.01023 secs	   7919 N/s
+Solved.     greedy       19 Nodes	    9 Steps	 0.00041 secs	  46692 N/s
+
+---->Solving  EACDIBGHMFJLN.KO
+Solved.        bfs     7297 Nodes	   10 Steps	 0.04595 secs	 158791 N/s
+Solved.     bi_bfs      185 Nodes	   10 Steps	 0.00188 secs	  98544 N/s
+Solved.     id_dfs     2661 Nodes	   10 Steps	 0.06808 secs	  39085 N/s
+Solved.     greedy       22 Nodes	   10 Steps	 0.00047 secs	  46840 N/s
+
+---->Solving  ABCDFGKHEJNL.IMO
+Solved.        bfs    14292 Nodes	   11 Steps	 0.09835 secs	 145312 N/s
+Solved.     bi_bfs      367 Nodes	   11 Steps	 0.00305 secs	 120323 N/s
+Solved.     id_dfs     1397 Nodes	   11 Steps	 0.07810 secs	  17887 N/s
+Solved.     greedy       25 Nodes	   11 Steps	 0.00050 secs	  49718 N/s
+
+---->Solving  .EBDIACHFGKLMJNO
+Solved.        bfs    95404 Nodes	   14 Steps	 0.89768 secs	 106278 N/s
+Solved.     bi_bfs      758 Nodes	   14 Steps	 0.00695 secs	 109102 N/s
+Solved.     id_dfs    39328 Nodes	   14 Steps	 1.10699 secs	  35527 N/s
+Solved.     greedy       39 Nodes	   14 Steps	 0.00081 secs	  48277 N/s
+
+---->Solving  ABCDEFGHIOJNMK.L
+Solved.        bfs    52120 Nodes	   13 Steps	 0.72384 secs	  72005 N/s
+Solved.     bi_bfs      683 Nodes	   13 Steps	 0.00402 secs	 169923 N/s
+Solved.     id_dfs    34741 Nodes	   13 Steps	 0.70378 secs	  49363 N/s
+Solved.     greedy      380 Nodes	   15 Steps	 0.00752 secs	  50552 N/s
+
+---->Solving  .CGDBAJHFEKLIMNO
+Solved.        bfs   338143 Nodes	   16 Steps	 3.85376 secs	  87744 N/s
+Solved.     bi_bfs     1680 Nodes	   16 Steps	 0.01683 secs	  99801 N/s
+Solved.     id_dfs   232024 Nodes	   16 Steps	 6.33718 secs	  36613 N/s
+Solved.     greedy       56 Nodes	   16 Steps	 0.00108 secs	  51798 N/s
+
+---->Solving  ABC.EFHDMJIGNKOL
+Solved.        bfs   690812 Nodes	   17 Steps	 8.76787 secs	  78789 N/s
+Solved.     bi_bfs     2614 Nodes	   17 Steps	 0.02390 secs	 109392 N/s
+Solved.     id_dfs   435191 Nodes	   17 Steps	 13.35812 secs	  32579 N/s
+Solved.     greedy      324 Nodes	   17 Steps	 0.00811 secs	  39941 N/s
+
+---->Solving  BCGDAFHLEK.OIMNJ
+Solved.        bfs  2037728 Nodes	   18 Steps	 25.88487 secs	  78723 N/s
+Solved.     bi_bfs     4355 Nodes	   18 Steps	 0.05308 secs	  82045 N/s
+Memory Error
+
+def k_dfs(root, k):
+    global NODE_COUNTER
+    NODE_COUNTER = 0
+    fringe = [root]
+    while fringe:
+        p = fringe.pop()
+        if p.state == GOAL:
+            return p
+        if p.depth + 1 < k:
+            index = p.state.find(BLANK)
+            for d in possible_moves[index]:
+                s = make_move(p.state, d, index)
+                if s not in p.ancestors:
+                    NODE_COUNTER += 1
+                    n = Node(s, p, d)
+                    p.children += [n]
+                    fringe.append(n)
+    return None
