@@ -43,4 +43,6 @@ nltk:
 
 * Some natural language processing excersises using the python library [nltk](https://www.nltk.org/)
 
+Othello:
 
+* An AI that plays the board game othello
