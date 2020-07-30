@@ -37,6 +37,7 @@ Decision Tree:
 
 * An intro into machine learning that generates a decision tree from a csv file
 * Calculates [Shannon Entropy](https://en.wiktionary.org/wiki/Shannon_entropy) to determine the tree structure
+* The Jupyter Notebooks folder contains some more machine learning code including stochastic hill climbing, back propagation, and forward propagation
 
 nltk:
 
